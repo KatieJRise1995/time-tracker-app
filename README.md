@@ -1,2 +1,2 @@
 # time-tracker-app
-Repo for Tim Tracking application
+Repo for Time Tracking application
